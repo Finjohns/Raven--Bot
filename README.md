@@ -56,13 +56,11 @@ Our AI features use random APIs to run, so sometimes they may be down.
 <a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
             
+###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
-###  ` Deploy to Heroku`
-<p align="center">
-     <a href="https://verify-me-umber.vercel.app/">
-       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
-     </a>
- </p>
+
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Finjohns/Raven--Bot&template=https://github.com/Finjohns/Raven--Bot.git)***
+
  
 
     
