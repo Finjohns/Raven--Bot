@@ -14,8 +14,8 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/HunterNick2/RAVEN-BOT#readme",
-  "repository": "https://github.com/HunterNick2/RAVEN-BOT.git",
+  "website": "https://github.com/Finjohns/Raven--Bot#readme",
+  "repository": "https://github.com/Finjohns/RAVEN-BOT.git",
   "logo": "https://files.catbox.moe/duv8ac.jpg",
   "success_url": "/",
   "env": {
@@ -25,7 +25,7 @@
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114660061,27849061633  ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254769365617,254713192684  ",
       "required": true
     },
     "ANTIDELETE": {
@@ -37,7 +37,7 @@
     
     "AUTOREJECT_CALL": {
       "description": "Put TRUE if you want bot to decline all incoming calls",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": false
     },
     "ANTIFOREIGN": {
@@ -56,7 +56,7 @@
     },
     "BAD_WORD_KICK": {
       "description": "Put here TRUE if you want the bot to automatically kick group members using words that you have listed as bad",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": false
     },
     "ANTITAG": {
@@ -70,13 +70,13 @@
 },
  "AUTOVIEW": {
       "description": "Input TRUE if you want bot to automatically read status update",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": true
 },
  "WA_PRESENCE": {
       "description": "Input either recording, typing, online, or leave it blank. This enables bot to simulate typing or recording or online status even if you're not online.",
-      "value": "recording",
-      "required": true
+      "value": "",
+      "required": false
 },
  "WELCOMEGOODBYE": {
       "description": "Input TRUE if you want bot to welcome new members joining group or wave goodbye to members leaving a group.",
@@ -86,7 +86,7 @@
    
  "ANTILINK": {
       "description": "Input TRUE if you want bot to kick link senders only whatsapp group links",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": true
 },
  "ANTILINK_ALL": {
@@ -109,13 +109,13 @@
 },
  "MODE": {
       "description": "Input PRIVATE if you don't want other people to use your bot",
-      "value": "PUBLIC",
+      "value": "PRIVATE",
       "required": true
     },
     
  "AUTOBIO": {
       "description": "Input TRUE if you want bot to autoupdate its about with current time and date.",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": false
 },
  "APP_NAME": {
@@ -124,12 +124,12 @@
 },
  "STICKER_AUTHOR": {
       "description": "Input sticker data for author",
-      "value": "RAVEN-BOT",
+      "value": "JINWIIL",
       "required": false
 },
  "STICKER_PACKNAME": {
       "description": "Input sticker data for packname",
-      "value": "RAVEN-BOT",
+      "value": "ONGINJO",
       "required": false
 },
  "GPT_INBOX": {
@@ -148,7 +148,7 @@
     },
     "AUTOLIKE_STATUS": {
       "description": "input TRUE if you want bot to autolike status updates. This will only work if autostatus view is TRUE",
-      "value": "TRUE",
+      "value": "FALSE",
       "required": false
     }
   },
