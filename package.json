@@ -53,7 +53,7 @@
      "crypto": "^1.0.1", 
      "translatte": "^3.0.1",
      "child-process": "^1.0.2", 
-     "jimp": "^0.16.13",
+     "jimp": "latest",
      "human-readable": "^0.2.1", 
      "quickmongo": "^5.2.0", 
      "lodash": "^4.17.21",
